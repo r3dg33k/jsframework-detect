@@ -1,12 +1,14 @@
 
 
-`⚡ Scanning https://vercel.com [via Chrome]
+`
+⚡ Scanning https://vercel.com [via Chrome]
 
 ✓ Detected 2 framework(s) [source: chrome]
 
   → React.js
   → Next.js
 `
+
 With --json:
 `  {
   "url": "https://vercel.com",
